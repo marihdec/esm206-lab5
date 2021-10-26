@@ -1,1 +1,5 @@
-# esm206-lab5
+# ESM 206 Lab 5
+
+- Confidence intervals
+- t-tests
+- Rmarkdown customization
